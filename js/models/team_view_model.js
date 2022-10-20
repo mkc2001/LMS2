@@ -1,6 +1,4 @@
-/* view_model.js -Review this file and the notes I've added to understand how these are used.
-As you integrate this pattern into your LMS1 code base, you may make some changes or add your own meta data.  This is just an example showing how I did it
-*/
+
 var teamViewModel = {
     entity: "teams",           //key used for LocalStorage
     entitySingle: "team",      //singular in case you need for alert message
